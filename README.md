@@ -10,9 +10,9 @@ Atualmente, estou em transição para a área de tech, onde pretendo atuar como 
 ##
 
 <div align="center">
-  <a href="https://github.com/ArleteBrito/github-readme-stats"><img height="165em" alt="Arlete Brito's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArleteBrito&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/ArleteBrito/github-readme-stats"><img height="165em" alt="ArleteBrito's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArleteBrito&langs_count=8&count_private=true&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117"/>
-	</a>
+<a href="https://github.com/ArleteBrito/github-readme-stats"><img height="165em" alt="Arlete Brito's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArleteBrito&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/ArleteBrito/github-readme-stats"><img height="165em" alt="ArleteBrito's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArleteBrito&langs_count=8&count_private=true&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117"/>
+</a>
 </div>
 
 ## Tecnologias:
