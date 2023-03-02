@@ -3,7 +3,12 @@
 ##  Sobre Mim
   
 </div>
-Atualmente, estou em transição para a área de tech, onde pretendo atuar como Desenvolvedora e, a partir daí, construir uma carreira sólida na área de desenvolvimento de software. Inicialmente me formei em Enfermagem pela Universidade Católica do Salvador. No entanto, ainda durante o curso, descobri na área de Tecnologia e Gestão minha vocação em aprender e, utilizar este conhecimento, para a melhoria dos mais variados processos. Assim, decidi seguir este chamado e buscar conhecimento pela tecnologia. No momento estou me especializando como Desenvolvedora Full Stack pela Trybe e cursando o Bootcamp Oi Dev's pela Ada. Sou uma pessoa dedicada e comprometida, sempre me esforçando ao máximo em todos os projetos pessoais e profissionais. Penso que através da tecnologia, posso contribuir para minha própria realização e para o desenvolvimento de outras pessoas.
+Estudante de Desenvolvimento Web na Trybe e aluna do Bootcamp Oi Devs pela Let 's Code from Ada. Migrando da Enfermagem para Tecnologia, pretendo atuar como Desenvolvedora Web em projetos inovadores e desafiadores. Inicialmente me formei em Enfermagem pela Universidade Católica do Salvador. No entanto, ainda durante o curso, descobri na área de Tecnologia e Gestão minha vocação. Decidi, assim, seguir esse chamado e buscar mais conhecimento na área. 
+
+Sou uma pessoa dedicada e comprometida, sempre me esforçando ao máximo em todos os projetos pessoais e profissionais. Penso que, através da tecnologia, posso contribuir para o desenvolvimento e melhoria das pessoas e processos dentro das organizações e, consequentemente, para minha própria realização.
+
+Atualmente tenho como competências conhecimentos como Git, Github, HTML, CSS, Javascript, Testes Unitários em Jest e RTL,, React, Redux, Context API, Node.js e Express, SQL  e Metodologias Ágeis como OKR, Scrum e Six Sigma
+
 
 <br>
 
