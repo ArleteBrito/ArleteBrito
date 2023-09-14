@@ -6,7 +6,7 @@
 
 Sou uma pessoa dedicada e comprometida, sempre me esforçando ao máximo em todos os projetos pessoais e profissionais. Penso que, através da tecnologia, posso contribuir para o desenvolvimento e melhoria das pessoas e processos dentro das organizações e, consequentemente, para minha própria realização.
 
-Atualmente tenho como competências conhecimentos como Git, Github, HTML, CSS, Javascript, Testes Unitários em Jest e RTL,, React, Redux, Context API, Node.js e Express, SQL  e Metodologias Ágeis como OKR, Scrum e Six Sigma
+Atualmente atuo como Desenvolvedora Backend na Oi/SA. Tenho como competências conhecimentos em Git, Github, HTML, CSS, Javascript, Testes Unitários em Jest e RTL,, React, Redux, Context API, Node.js e Express, SQL  e Metodologias Ágeis como OKR, Scrum e Six Sigma
 
 <br>
 
