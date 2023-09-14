@@ -3,12 +3,10 @@
 ##  Sobre Mim
   
 </div>
-Estudante de Desenvolvimento Web na Trybe e aluna do Bootcamp Oi Devs pela Let 's Code from Ada. Migrando da Enfermagem para Tecnologia, pretendo atuar como Desenvolvedora Web em projetos inovadores e desafiadores. Inicialmente me formei em Enfermagem pela Universidade Católica do Salvador. No entanto, ainda durante o curso, descobri na área de Tecnologia e Gestão minha vocação. Decidi, assim, seguir esse chamado e buscar mais conhecimento na área. 
 
 Sou uma pessoa dedicada e comprometida, sempre me esforçando ao máximo em todos os projetos pessoais e profissionais. Penso que, através da tecnologia, posso contribuir para o desenvolvimento e melhoria das pessoas e processos dentro das organizações e, consequentemente, para minha própria realização.
 
 Atualmente tenho como competências conhecimentos como Git, Github, HTML, CSS, Javascript, Testes Unitários em Jest e RTL,, React, Redux, Context API, Node.js e Express, SQL  e Metodologias Ágeis como OKR, Scrum e Six Sigma
-
 
 <br>
 
